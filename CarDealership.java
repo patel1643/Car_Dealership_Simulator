@@ -52,8 +52,8 @@ public class CarDealership
 	 */
 	public int listSize() 
 	{
-		int i = getCars().size();
-		return i;				
+		int j = getCars().size();
+		return j;				
 	}
 	
 	
